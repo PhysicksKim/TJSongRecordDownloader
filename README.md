@@ -1,6 +1,6 @@
 # TJ Song Record Downloader  
-Python script to automatically download song recordings from TJ Karaoke  
-  
+This script automatically downloads TJ Karaoke song recordings sent via email and saves them with a specific filename format.  
+    
 ---  
   
 # TJ 노래 녹음 다운로드 스크립트   
